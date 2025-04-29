@@ -54,7 +54,7 @@ My extention does not guarantee 100% content filtering ofc
 
 I respects all faiths and belief systems
 
-And for the last Im definitely affiliated to any kind of religous organization. 
+And for the last Im definitely NOT affiliated to any kind of religous organization. 
 
 
    
