@@ -12,7 +12,7 @@ const religiousResources = {
 function isAdultContent(url) {
   try {
     const dangerousPatterns = [
-      /(\W|^)(porn|pornhub|adult|onlyfans|hentai|sex|xxx|cam|nsfw|vulgar|Brazzers|xhamster|beurette.com|vid\d+|live)(\W|$)/i,
+      /(\W|^)(porn|pornhub|adult|onlyfans|youporn|rule34|hentai|sex|xxx|cam|nsfw|vulgar|Brazzers|xhamster|beurette.com|vid\d+|live)(\W|$)/i,
       /\/video\d*(\/|$)/i,
       /\/live[_-]?stream/i,
       /\/[a-z]{3,}\d{3,}\//i,
